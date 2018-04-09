@@ -1,0 +1,204 @@
+@media screen and (max-width: 1179px) {
+
+  .section {
+    width: 1179px;
+    height: 568px;
+  }
+
+  .section p {
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 18px;
+  }
+
+  .section h2 {
+    font-size: 30px;
+    line-height: 39px;
+  }
+
+  .section.TextPic section {
+    margin: 137px 0 0 191px;
+  }
+
+  .section.PicText section {
+    margin: 137px 0 0 645px;
+  }
+
+  .section.Center {
+    margin: 0 78px;
+  }
+
+  .section.Center section {
+    margin: 137px 0 0 9px;
+  }
+
+  .section.Center p {
+    margin: 18px 0 0 -3px;
+  }
+  .section.Center footer p {
+    margin: 130px 0 0 2px;
+    font-size: 13px;
+  }
+
+  #pattern {
+    margin: 42px 0;
+    width: 22px;
+    height: 3px;
+  }
+
+  .pic#img1 {
+    width: 377px;
+    height: 407px;
+    margin: -258px 0 0 611px;
+  }
+
+  .pctrs {
+    width: 347px;
+    margin: -260px 0 0 190px;
+  }
+
+  .pic#img2a {
+    width: 99px;
+    height: 339px;
+  }
+
+  .pic#img2b {
+    width: 99px;
+    height: 283px;
+  }
+
+  .pic#img2c {
+    width: 100px;
+    height: 227px;
+  }
+
+  .pic#img3 {
+    width: 540px;
+    height: 286px;
+    margin: -154px 0 0 532px;
+  }
+
+  .buttons {
+    margin: 42px 0 0 -10px;
+    height: 10px;
+  }
+  .buttonbig {
+    width: 214px;
+    font-size: 12px;
+    height: 36px;
+    line-height: 37px;
+  }
+
+  .buttonsmall {
+    font-size: 13px;
+  }
+
+}
+
+@media screen and (max-width: 840px) {
+  .section {
+    width: 840px;
+  }
+
+  .section.TextPic section {
+    margin: 137px 0 0 22px;
+  }
+
+  .section.PicText section {
+    margin: 137px 0 0 476px;
+  }
+
+  .section.Center {
+    margin: 0 78px;
+  }
+
+  .section.Center section {
+    margin: 137px 0 0 9px;
+  }
+
+  .section.Center p {
+    margin: 18px 0 0 -3px;
+  }
+  .section.Center footer p {
+    margin: 130px 0 0 2px;
+  }
+
+  .pic#img1 {
+    margin: -258px 0 0 440px;
+  }
+
+  .pctrs {
+    margin: -260px 0 0 21px;
+  }
+
+  .pic#img3 {
+    margin: -155px 0 0 361px;
+  }
+
+}
+@media screen and (max-width: 839px) {
+
+ .section {
+   width: 839px;
+   height: 1024px;
+ }
+
+ .section.TextPic section {
+   margin: 137px 0 0 149px;
+ }
+
+ .section.PicText section {
+   margin: 137px 0 0 346px;
+ }
+
+ .section.Center {
+   margin: 0 78px;
+ }
+
+ .section.Center section {
+   margin: 187px 0 0 9px;
+ }
+
+ .section.Center p {
+   margin: 18px 0 0 -3px;
+ }
+ .section.Center footer p {
+   margin: 486px 0 0 0px;
+ }
+
+ .pic#img1 {
+   width: 541px;
+   height: 584px;
+   margin: 58px 0 0 148px;
+ }
+
+ .pctrs {
+   width: 488px;
+   margin: 100px 0 0 173px;
+ }
+ .pic#img2a {
+   width: 140px;
+   height: 478px;
+ }
+
+ .pic#img2b {
+   width: 141px;
+   height: 397px;
+ }
+
+ .pic#img2c {
+   width: 141px;
+   height: 318px;
+ }
+
+ .pic#img3 {
+   width: 762px;
+   height: 404px;
+   margin: 149px 0 0 157px;
+ }
+
+ .buttons {
+   margin-top: 92px;
+ }
+
+}
